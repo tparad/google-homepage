@@ -1,0 +1,1 @@
+Replicating the Google homepage layout.
